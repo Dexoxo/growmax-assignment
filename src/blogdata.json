@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Sample Blog Post 1",
+        "imageSrc": "https://www.w3schools.com/w3images/woods.jpg",
+        "content": "This is the content of the first blog post. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "Sample Blog Post 2",
+        "imageSrc": "https://www.w3schools.com/w3images/woods.jpg",
+        "content": "This is the content of the second blog post. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+    }
+]
